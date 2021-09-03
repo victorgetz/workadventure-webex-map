@@ -71,7 +71,12 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"webexMeetingUrl",
+             "type":"string",
+             "value":"https://meet108.webex.com/meet/pr1885265408"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
