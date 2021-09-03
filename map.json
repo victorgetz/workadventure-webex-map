@@ -37,7 +37,13 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"MeetingRoom"
-                }],
+                },
+                {
+                  "name":"webexMeetingUrl",
+                  "type":"string",
+                  "value":"https://meet108.webex.com/meet/pr1885265408"
+                }
+         ],
          "type":"tilelayer",
          "visible":true,
          "width":31,
