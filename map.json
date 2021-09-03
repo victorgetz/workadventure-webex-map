@@ -34,6 +34,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"MeetingRoom"
+                },
+                {
                   "name":"webexMeetingUrl",
                   "type":"string",
                   "value":"https://meet108.webex.com/meet/pr1885265408"
