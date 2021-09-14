@@ -73,7 +73,7 @@
                  "value":"onaction"
                 },
            {
-             "name":"webexMeetingUrl",
+             "name":"webexSpace",
              "type":"string",
              "value":"https://meet108.webex.com/meet/pr1885265408"
            }],
